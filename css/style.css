@@ -1,0 +1,103 @@
+body{
+	text-align: none;
+}
+.header-top{
+	background: #000000;
+}
+.call{
+	color: white;
+	text-align: right;
+	padding: 10px;
+}
+.no {
+	color: orange;
+}
+nav a {
+	color: #000000;
+	display: small-caps;
+	padding-left: 20px;
+	text-align: right;
+	display: inline-block;
+}
+.banner-img{
+	height: 200px;
+	background: red;
+	background: url(img/land.jpg);
+	/*background-size: cover;*/
+	background-repeat: repeat;
+
+}
+.welcome {
+    background: #444;
+    padding: 4em 0;
+}
+.circle{
+	height: 200px;
+	width: 200px;
+	border-radius: 100px;
+}
+.con{
+	color: #ffffff;
+}
+.con p {
+	margin-top: 15px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+footer {
+    background: #444;
+    padding: 4em 0px;
+}
+footer div div h3 {
+    font-family: 'Metamorphous', cursive;
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 600;
+    margin: 0;
+    padding-left: 30px;
+}
+/*footer div div ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+
+}*/
+footer div div li{
+    list-style: none;
+    margin: 6px 0px;
+}
+footer div div li a{
+    color: #999;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.copyrights p{
+	color: #999;
+    font-size: 15px;
+    font-weight: 300;
+    /*padding-left: 500px;*/
+ /*   text-align: center;*/
+}
+.copy-rights {
+    margin-top: 5%;
+    text-align: center;
+}
+/*about page*/
+.about h2 {
+    font-family: 'Metamorphous', cursive;
+    font-size: 3em;
+    color: #339966;
+    text-align: center;
+}
+.content{
+    font-size: 130%;
+}
